@@ -29,8 +29,6 @@ A structured collection of **Data Structures and Algorithms (DSA)** programs imp
 
 ## 🧠 Data Structures
 
-This repository includes implementations and practice programs for:
-
 * Arrays
 * Strings
 * Linked Lists
@@ -45,8 +43,6 @@ This repository includes implementations and practice programs for:
 ---
 
 ## ⚡ Algorithms & Techniques
-
-Some of the algorithms and problem-solving techniques covered:
 
 * Binary Search
 * BFS
@@ -66,7 +62,7 @@ Some of the algorithms and problem-solving techniques covered:
 
 ## 🧩 Dynamic Programming
 
-The repository includes several DP problems such as:
+The repository includes:
 
 * Fibonacci
 * Climbing Stairs
@@ -116,39 +112,32 @@ dsa-practice/
 
 ## 💻 Language & Tools
 
-**Language:**
-
-* C++
-
-**Platform:**
-
-* GitHub
-
-**Editor:**
-
-* VS Code / GitHub Editor
+* **C++**
+* **Git**
+* **GitHub**
+* **VS Code**
 
 ---
 
-## 🎯 Goals
+## 🎯 Purpose
 
-The main goals of this repository are:
+This repository was created to:
 
 * Strengthen DSA fundamentals
-* Improve logical and problem-solving skills
-* Practice writing clean C++ programs
+* Improve problem-solving skills
+* Practice algorithms and data structures in C++
 * Prepare for coding interviews
-* Build a consistent GitHub coding portfolio
+* Maintain a structured DSA practice portfolio
 
 ---
 
-## 📈 Progress
+## 📊 Repository Status
 
 **DSA Fundamentals:** ✅ Completed
 
-**Problem-Solving Practice:** 🚀 Ongoing
+**Language:** C++
 
-New problems and interview-oriented questions will be added regularly.
+**Repository Type:** DSA Practice & Interview Preparation
 
 ---
 
@@ -157,5 +146,3 @@ New problems and interview-oriented questions will be added regularly.
 **Syed Shuja Abbas**
 
 B.Tech CSE Student
-
----
